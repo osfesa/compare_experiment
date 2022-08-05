@@ -1,0 +1,3 @@
+// the configured options and settings
+#define VERSION_MAJOR @cpu_compare_VERSION_MAJOR@
+#define VERSION_MINOR @cpu_compare_VERSION_MINOR@
